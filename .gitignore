@@ -1,0 +1,6 @@
+# Ignorar la carpeta 'ambiente' y todo lo que contiene
+vGPA/
+
+# Ignorar todos los archivos .txt que estén dentro de 'data/' (solo esa carpeta, no subdirectorios)
+Data/*.txt
+Data/**/*.txt
