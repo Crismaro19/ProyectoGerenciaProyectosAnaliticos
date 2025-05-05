@@ -3,4 +3,4 @@ vGPA/
 
 # Ignorar todos los archivos .txt que estén dentro de 'data/' (solo esa carpeta, no subdirectorios)
 Data/*.txt
-Data/**/*.txt
+Data/archivos_csv/
